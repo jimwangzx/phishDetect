@@ -26,7 +26,7 @@ colorama==0.4.4
 colour==0.1.5
 configparser==5.0.2
 console-progressbar==1.1.2
-cryptography==3.4.6
+cryptography==39.0.1
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
